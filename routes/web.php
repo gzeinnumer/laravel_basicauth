@@ -11,6 +11,10 @@
 |
 */
 
+//Http/Middleware/BasicAuth.php -> create new
+//Http/kernel.php
+//route/web.php
+//route/api.php
 
 
 //here
